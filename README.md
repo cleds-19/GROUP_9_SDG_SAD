@@ -1,5 +1,3 @@
-Project Title
-
 SecureMail System: A Secure Mobile Email Communication Platform with Threat Detection and Encryption
 
 SDG 9. Industry, Innovation, and Infrastructure
